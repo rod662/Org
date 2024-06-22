@@ -1,0 +1,27 @@
+
+.footer {
+    height: 200px;
+    background-color: #6278F7;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer__iconos {
+    display: flex;
+    gap: 10px;
+    gap: 50px;
+    
+}
+
+.footer__iconos .bi {
+    color: white;
+    font-size: 50px;
+    
+   
+}
+
+.footer__texto {
+    color: #ffffff;
+    font-size: 20px;
+}

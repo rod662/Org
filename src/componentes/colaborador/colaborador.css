@@ -1,0 +1,53 @@
+
+.colaborador {
+    background: white;
+    border-radius: 25px 25px 25px 25px;
+    width: 250px;
+    height: 300px;
+}
+
+.encabezado {
+    border-radius: 25px 25px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.colaborador img {
+    width: 120px;
+    height: 120px;
+    border: solid 1px black;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+
+.info h4 {
+    color: blue;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.info h5 {
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: -30px;
+}
+
+.contenedor__boton {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.boton_eliminar {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    border: transparent;
+    margin-bottom: -20px;
+    cursor: pointer;
+    right: 0;
+    font-size: 25px;
+}

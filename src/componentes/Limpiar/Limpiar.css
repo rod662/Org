@@ -1,0 +1,17 @@
+.boton_limpiar {
+    background-color: #91f68f;
+    border-radius: 10px;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: "Montserrat", sans-serif;
+    padding: 20px 40px;
+    border: none;
+    margin: 32px 0;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.boton_limpiar:hover {
+    color: #95FFD4;
+    transition: 0.5s;
+}
